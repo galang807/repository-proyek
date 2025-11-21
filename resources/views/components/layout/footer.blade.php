@@ -10,7 +10,7 @@
         </div>
         <div>
             <span class="footer-link me-4" target="_blank">Perancangan dan Pemrograman Web Lanjut</span>
-            <span class="footer-link me-4" target="_blank">Teknik Informatika</span>
+            <span class="footer-link me-4" target="_blank">Sistem  Informatika</span>
 
         </div>
     </div>
