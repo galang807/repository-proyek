@@ -5,13 +5,29 @@
         </h2>
     </x-slot>
 
-    <div class="py-12">
+    <!-- <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
-                    {{ __("You're logged in!") }}
+                    Selamat datang di halaman Dashboard UTS PPWL.
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
+
+    <div class="row">
+        <div class="col-lg mb-4 order-0">
+            <div class="card">
+                <div class="d-flex align-items-end row">
+                    <div class="col-sm">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">Congratulations John! 🎉</h5>
+                            <p class="mb-4">
+                                Selamat datang di halaman Dashboard UTS PPWL.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 </x-app-layout>
